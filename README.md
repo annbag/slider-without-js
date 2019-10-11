@@ -8,7 +8,7 @@
 
 ## Demo
 
-You can see demo[https://annbag.github.io/slider-without-js/].
+You can see [demo](https://annbag.github.io/slider-without-js/).
 
 ## General info
 
